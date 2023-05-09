@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is current hosted using fleek at the url : https://sweet-sound-5550.on.fleek.co/.
 
 ## Available Scripts
 
