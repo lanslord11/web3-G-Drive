@@ -69,3 +69,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Project Description
+
+This decentralized web3 app leverages the Sepolia test network to provide a decentralized storage solution similar to Google Drive. Users can upload files using their Metamask account, which are then stored on the IPFS Pinata gateway. The file addresses are recorded on a smart contract.
+
+## Usage
+
+Follow these steps to use the decentralized web3 app:
+
+1. Connect your Metamask account to the site and ensure Metamask is connected to the Sepolia test network.
+2. Click the "Get Data" button to retrieve your own files from the smart contract and display them.
+3. To retrieve files from another user, enter their address and click the "Get Data" button.
+4. To upload a new file, click the "Choose Image" button and then "Upload File" to upload it using your Metamask account.
+5. To share your files with another user, click the "Share" button and add the address of the user you want to share with.
+
